@@ -1,0 +1,12 @@
+body {
+    background: white;
+    color: black;
+    justify-content: center;
+    margin: auto;
+    max-width: 600px;
+}
+
+
+article + article {
+    margin-bottom: 3rem;
+}
